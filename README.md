@@ -1,5 +1,5 @@
 '# vue-manyAddress' 
-
+<pre>
 <template>
   <div class="pr full_size" style="z-index:200">
     <a class="font-s4r" href="javascript:void(0)">选择地址</a>
@@ -35,3 +35,4 @@
 
   }
 </script>
+</pre>
