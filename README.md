@@ -1,5 +1,11 @@
 '# vue-manyAddress' 
 <h1>vue多级地址选取插件</h1>
+<dl>
+  <dt>适用情况：</dt>
+  <dd>3级地址  -------  省市区</dd>  
+  <dd>4级地址  -------  省市区镇</dd>  
+  <dd>多级地址  ------  省市区（镇）</dd>  
+</dl>
 <pre>
 &lt;template&gt;
   &lt;div class="pr full_size" style="z-index:200"&gt;
